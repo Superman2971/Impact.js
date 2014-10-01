@@ -9,5 +9,6 @@ Next steps will be:
 - Add enemies
 - Add collision detection
 - Add levels
+- Add unique assets (imagery)
 - AND MORE!
 
